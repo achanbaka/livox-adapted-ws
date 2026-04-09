@@ -1,0 +1,19 @@
+# ROS build artifacts
+/build/
+/devel/
+/install/
+/logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
